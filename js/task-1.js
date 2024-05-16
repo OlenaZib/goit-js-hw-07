@@ -1,0 +1,1 @@
+const liElem = document.querySelectorAll('.item')
