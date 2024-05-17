@@ -40,3 +40,4 @@ const ulElemItems = images.map(image => {
 });
 ulElem.append(...ulElemItems);
 console.log(ulElemItems);
+
