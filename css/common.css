@@ -127,3 +127,99 @@ border: 1px solid #808080;
   height: 40px;
   
 }
+
+.widget{
+  width: 169px;
+  
+  margin-left: auto;
+  margin-right: auto;
+}
+.paragraf{
+  font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #2e2f42;
+}
+.change-color{
+  border-radius: 8px;
+    padding: 8px 16px;
+    width: 148px;
+    height: 40px;
+    background: #4e75ff;
+    border: none;
+    font-family: "Montserrat", sans-serif;
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 1.5;
+      letter-spacing: 0.04em;
+      color: #fff;
+}
+
+.conteiner-controls{
+  background: #f6f6fe;
+  border-radius: 8px;
+    padding: 32px;
+    width: 486px;
+    height: 104px;
+    border: 1px solid #808080;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 16px;
+}
+.conteiner-boxes{
+  border-radius: 8px;
+    padding: 32px;
+    width: 486px;
+    height: 134px;
+    border: 1px solid #808080;
+    background: #f6f6fe;
+margin-left: auto;
+  margin-right: auto;
+}
+.input-number{
+      border: 1px solid #808080;
+        border-radius: 8px;
+        padding: 8px 72px;
+        width: 150px;
+        height: 40px;
+        margin-right: 10px;
+}
+.create-btn{
+  border-radius: 8px;
+    padding: 8px 16px;
+    width: 120px;
+    height: 40px;
+    background: #4e75ff;
+    font-family: "Montserrat", sans-serif;
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 1.5;
+      letter-spacing: 0.04em;
+      color: #fff;
+      border: 0;
+      cursor: pointer;
+      margin-right: 10px;
+}
+.destroy-btn{
+  border: 0;
+  border-radius: 8px;
+    padding: 8px 16px;
+    width: 120px;
+    height: 40px;
+    background: #ff4e4e;
+    font-family: "Montserrat", sans-serif;
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 1.5;
+      letter-spacing: 0.04em;
+      color: #fff;
+      cursor: pointer;
+}
+.destroy-btn:hover{
+  background: #ff7070;
+}
+.create-btn:hover{
+  background: #6c8cff;
+}
